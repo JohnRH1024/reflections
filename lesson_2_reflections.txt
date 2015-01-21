@@ -1,0 +1,3 @@
+What happens when you initialize a repository?  Why do you need to do it?
+A: you let Git know you want to tack changes in files in that repository 
+and you set up some hidden files in the directory that facilitates that.

@@ -1,0 +1,18 @@
+diff - u useful for finding differences in a file
+Saves time over looking manually for differences
+
+Having access to older versions of your code helps when a change causes something to break and you 
+have to go back to fix it.
+
+Save when you choose to save a version of the file.
+
+Commits are the basic building blocks of Git.
+
+
+git diff  commit_id1  commit_id2   compares two versions of a file
+
+git diff --stat   gives some statistics about the changes made in the commit
+
+
+The commit ID of the most recent commit is 3884eab839af1e82c44267484cf2945a766081f3. 
+You can use this commit ID to return to the latest commit after checking out an older commit.
