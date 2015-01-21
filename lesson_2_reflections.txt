@@ -1,3 +1,7 @@
 What happens when you initialize a repository?  Why do you need to do it?
 A: you let Git know you want to tack changes in files in that repository 
 and you set up some hidden files in the directory that facilitates that.
+
+How is the staging area different from working directory and the repository? What value do you htink it offers?
+A: Repository has files that have been already committed. Staging area has files waiting to be committed. Working directory has both kinds of files and may even have files not under Git control.
+
